@@ -55,7 +55,7 @@ I already have macOS High Sierra on my device, so this subtask is done.
 
     ![Screen Shot 2022-09-10 at 11 27 29 PM](https://user-images.githubusercontent.com/92053176/189500726-11ca20c9-0264-4374-884e-6151ec0a964d.png)
 
-5. Adding files to the staging area and commiting changes
+5. Adding files to the staging area, commiting changes and pushing to the `origin main`
     
     ![Screen Shot 2022-09-11 at 12 01 08 AM](https://user-images.githubusercontent.com/92053176/189501620-dbedf940-d211-4423-88d9-cd5698467204.png)
 
