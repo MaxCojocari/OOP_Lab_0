@@ -43,7 +43,7 @@ I already have macOS High Sierra on my device, so this subtask is done.
 
 ## Creating a Git repository
 
-1. Creating new repository in Github, `git clone git@github.com:MaxCojocari/OOP_Lab_0.git`
+1. Creating new repository in Github, then `git clone git@github.com:MaxCojocari/OOP_Lab_0.git`
 
     ![Screen Shot 2022-09-10 at 11 14 33 PM](https://user-images.githubusercontent.com/92053176/189500450-866623bc-af63-4902-9b10-72158b4b3ef7.png)
 
