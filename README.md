@@ -43,14 +43,21 @@ I already have macOS High Sierra on my device, so this subtask is done.
 
 ## Creating a Git repository
 
-1. `git clone git@github.com:MaxCojocari/OOP_Lab_0.git`
+1. Creating new repository in Github, `git clone git@github.com:MaxCojocari/OOP_Lab_0.git`
 
     ![Screen Shot 2022-09-10 at 11 14 33 PM](https://user-images.githubusercontent.com/92053176/189500450-866623bc-af63-4902-9b10-72158b4b3ef7.png)
 
-2. `touch hello.c && nano hello.c`
+3. `touch hello.c && nano hello.c`
 
     ![Screen Shot 2022-09-10 at 11 20 35 PM](https://user-images.githubusercontent.com/92053176/189500532-8d374576-8c34-472f-be5e-ffa2b66cd801.png)
 
-3. Creating Makefile and compiling the code
+4. Creating Makefile and compiling the code
 
     ![Screen Shot 2022-09-10 at 11 27 29 PM](https://user-images.githubusercontent.com/92053176/189500726-11ca20c9-0264-4374-884e-6151ec0a964d.png)
+
+5. Adding files to the staging area and commiting changes
+    
+    ![Screen Shot 2022-09-11 at 12 01 08 AM](https://user-images.githubusercontent.com/92053176/189501620-dbedf940-d211-4423-88d9-cd5698467204.png)
+
+
+
